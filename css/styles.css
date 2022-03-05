@@ -1,0 +1,41 @@
+body{
+    background-color: #EFFFFD;
+}
+
+hr{
+    border: solid 2px;
+    border-color: #313552;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.top-container{
+    background-color: #85F4FF;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.table-center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+}
+
+.p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+
+.container{
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
